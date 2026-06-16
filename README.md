@@ -14,6 +14,9 @@
 
 동의하는 경우에만 사용해 주세요.
 
+<img width="2060" height="1405" alt="image" src="https://github.com/user-attachments/assets/c28d7b2e-d778-4903-a44b-a30fbfdd815c" />
+
+
 ## 다운로드
 
 최신 실행 파일은 [Releases](https://github.com/motionsilse/gw2-korean-patch/releases)에서 받을 수 있습니다.
