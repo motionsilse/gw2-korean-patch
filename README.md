@@ -14,6 +14,9 @@
 
 동의하는 경우에만 사용해 주세요.
 
+<img width="546" height="512" alt="image" src="https://github.com/user-attachments/assets/77b82abf-f559-49c9-92b0-6d30b24b7532" />
+
+
 <img width="2060" height="1405" alt="image" src="https://github.com/user-attachments/assets/c28d7b2e-d778-4903-a44b-a30fbfdd815c" />
 
 
