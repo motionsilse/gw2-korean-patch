@@ -24,6 +24,9 @@
 
 구버전의 사용자DB는 Korean 폴더를 삭제하지 않는한 계속 사용가능 합니다.
 
+<img width="3131" height="1486" alt="image" src="https://github.com/user-attachments/assets/fbd8f54a-556c-486f-b6c8-777e53caec36" />
+
+
 
 <img width="539" height="749" alt="image" src="https://github.com/user-attachments/assets/e3d3a9cf-cc89-4be2-a81a-a31726d8ac14" />
 
