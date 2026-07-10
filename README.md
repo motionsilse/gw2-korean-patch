@@ -57,9 +57,13 @@
 최대한 구분하려고 시도했으나 완벽하지는 않다는 점 양해부탁드립니다.
 
 
-## 
+## 업데이트
 
 최신 실행 파일은 [Releases](https://github.com/motionsilse/gw2-korean-patch/releases)에서 받을 수 있습니다.
+
+## 채팅 번역
+
+채팅창까지 실시간 양방향 번역은 https://github.com/motionsilse/CatBridge 를 참고하세요. 
 
 ## 기반 프로젝트
 
