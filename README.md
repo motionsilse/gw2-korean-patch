@@ -61,6 +61,11 @@
 
 최신 실행 파일은 [Releases](https://github.com/motionsilse/gw2-korean-patch/releases)에서 받을 수 있습니다.
 
+길드워2가 업데이트 되면, 한글패치는 잠시 해제 후 패치하시고 길드워2의 업데이트가 완료가 되면 다시 한글패치를 적용하시면 됩니다.
+
+한글패치된 상태로 업데이트를 하게 되면 다운로드가 제대로 되지 않을 수 있습니다.
+
+
 ## 채팅 번역
 
 채팅창까지 실시간 양방향 번역은 https://github.com/motionsilse/CatBridge 를 참고하세요. 
