@@ -70,6 +70,10 @@
 
 채팅창까지 실시간 양방향 번역은 https://github.com/motionsilse/CatBridge 를 참고하세요. 
 
+## 길드워2 초보자 가이드
+
+길드워2 초보자 가이드 사이트 https://guide.guildwar.win/ 
+
 ## 기반 프로젝트
 
 이 패치는 [nourlie/gw2-cyrillic](https://github.com/nourlie/gw2-cyrillic) 기반으로 제작되었습니다.
