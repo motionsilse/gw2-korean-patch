@@ -68,7 +68,7 @@
 
 ## 채팅 번역
 
-채팅창까지 실시간 양방향 번역은 https://github.com/motionsilse/CatBridge 를 참고하세요. 
+채팅창까지 실시간 번역은 캣브릿지를 설치하세요. https://github.com/motionsilse/CatBridge 
 
 ## 길드워2 초보자 가이드
 
