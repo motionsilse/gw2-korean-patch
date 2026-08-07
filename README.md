@@ -33,7 +33,8 @@
 
 
 
-<img width="542" height="747" alt="image" src="https://github.com/user-attachments/assets/f815f867-e6fc-4b09-892f-8b993618f753" />
+<img width="536" height="839" alt="image" src="https://github.com/user-attachments/assets/e2669544-6be4-46c0-96e6-e1d9bcd96369" />
+
 
 
 
