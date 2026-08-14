@@ -22,7 +22,7 @@
 
 <img width="3131" height="1486" alt="한글패치" src="https://github.com/user-attachments/assets/fbd8f54a-556c-486f-b6c8-777e53caec36" />
 
-<img width="538" height="834" alt="한글 패치 화면" src="https://github.com/user-attachments/assets/47777f9d-ae92-4757-b937-3c87f4d1033b" />
+<img width="542" height="839" alt="image" src="https://github.com/user-attachments/assets/8f1d41fc-7ac5-4a6e-a615-b45db4fa3608" />
 
 <img width="2060" height="1405" alt="길드워2 한글화 화면" src="https://github.com/user-attachments/assets/c28d7b2e-d778-4903-a44b-a30fbfdd815c" />
 
