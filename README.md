@@ -1,7 +1,5 @@
 # 길드워2 한글 패치
 
-안녕하세요. Drugged Cat 입니다.
-
 길드워2를 한국어로 즐길 수 있도록 제작한 유저 한글 패치입니다.
 
 최신 버전은 [Releases](https://github.com/motionsilse/gw2-korean-patch/releases)에서 받을 수 있습니다.
