@@ -20,9 +20,11 @@
 
 <img width="3131" height="1486" alt="한글패치" src="https://github.com/user-attachments/assets/fbd8f54a-556c-486f-b6c8-777e53caec36" />
 
+<img width="2060" height="1405" alt="길드워2 한글화 화면" src="https://github.com/user-attachments/assets/c28d7b2e-d778-4903-a44b-a30fbfdd815c" />
+
 <img width="882" height="808" alt="image" src="https://github.com/user-attachments/assets/faaa798e-a0cd-4c97-8f3e-bf6f2beede34" />
 
-<img width="2060" height="1405" alt="길드워2 한글화 화면" src="https://github.com/user-attachments/assets/c28d7b2e-d778-4903-a44b-a30fbfdd815c" />
+
 
 ## 고유명사 번역의 한계
 
