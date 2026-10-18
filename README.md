@@ -4,8 +4,10 @@
 
 최신 버전은 [Releases](https://github.com/motionsilse/gw2-korean-patch/releases)에서 받을 수 있습니다.
 
-- [채팅 번역 애드온 CatBridge](https://catbridge.guildwar.win)
+# 참고 사이트
+
 - [길드워2 초보자 가이드](https://guildwar.win/)
+- [채팅 번역 애드온 CatBridge](https://catbridge.guildwar.win)
 
 ## 추천 설정
 
