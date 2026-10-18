@@ -4,6 +4,9 @@
 
 최신 버전은 [Releases](https://github.com/motionsilse/gw2-korean-patch/releases)에서 받을 수 있습니다.
 
+- [채팅 번역 애드온 CatBridge](https://catbridge.guildwar.win)
+- [길드워2 초보자 가이드](https://guildwar.win/)
+
 ## 추천 설정
 
 - 길드워2 입문자: 모든 번역을 켜거나, 아이템 이름 번역만 끄는 설정 추천
@@ -64,12 +67,6 @@
 이 패치는 비공식 사용자 제작 패치입니다. 사용 중 발생할 수 있는 문제를 확인하고 동의하는 경우에만 사용해 주세요.
 
 한글패치 다운로드나 실행시 백신이 오탐지를 할수도 있습니다. 그럴경우는 예외 혹은 백신을 잠시 끄고 한글패치를 다운받고 적용후 다시 켜주시면 됩니다.
-
-## 관련 링크
-
-- [채팅 번역 애드온 CatBridge](https://catbridge.guildwar.win)
-- [길드워2 초보자 가이드](https://guildwar.win/)
-- [전장 트래커](https://wvw.guildwar.win/)
 
 ## 기반 프로젝트
 
