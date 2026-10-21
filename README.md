@@ -86,7 +86,8 @@
 
 이전에 촬영한 게임 화면입니다. 현재 번역이나 표시 내용과는 차이가 있을 수 있습니다.
 
-<img src="https://github.com/user-attachments/assets/c28d7b2e-d778-4903-a44b-a30fbfdd815c" width="960" alt="게임 내 파티 찾기와 설정 메뉴의 한국어 번역 예시" />
+업로드 예정
+<img src="업로드 예정" width="960" alt="게임 내 파티 찾기와 설정 메뉴의 한국어 번역 예시" />
 
 </details>
 
