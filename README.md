@@ -2,7 +2,7 @@
 
 길드워2의 화면 안내, 대사, 아이템과 업적 등을 한국어로 즐길 수 있도록 만든 비공식 유저 패치입니다.
 
-**[최신 패처 다운로드](https://github.com/motionsilse/gw2-korean-patch/releases/latest)** · [문제·오역 제보](https://guildwar.win/?lang=ko#list)
+**[최신 패처 다운로드](https://github.com/motionsilse/gw2-korean-patch/releases/latest)** · [문제·오역 제보](https://guildwar.win/community?lang=ko#list)
 
 - **[길드워2 초보자 가이드](https://guildwar.win/)** — 처음 시작하는 분들을 위한 한국어 가이드입니다.
 - **[실시간 채팅 번역 캣브릿지](https://catbridge.guildwar.win/)** — 다른 플레이어와의 채팅을 번역하는 애드온입니다. 한국어 패치와 **별도로 추가 설치**해 주세요.
@@ -79,7 +79,7 @@
 
 아직 번역되지 않은 문구나 오역이 있을 수 있습니다. 사용자 DB의 분류 정보, 같은 영어 단어의 여러 의미, 문구 형식이나 분류 오류에 따라 고유명사 설정이 일부 문구에 정확히 적용되지 않을 수 있습니다.
 
-문제나 오역은 [커뮤니티](https://guildwar.win/?lang=ko#list)에 패처 버전, 발생 상황과 화면을 함께 알려 주세요. 백신이 다운로드나 실행을 차단했다면 이 저장소에서 받은 파일인지, 어떤 항목으로 탐지됐는지 확인해 주세요.
+문제나 오역은 [커뮤니티](https://guildwar.win/community?lang=ko#list)에 패처 버전, 발생 상황과 화면을 함께 알려 주세요. 백신이 다운로드나 실행을 차단했다면 이 저장소에서 받은 파일인지, 어떤 항목으로 탐지됐는지 확인해 주세요.
 
 <details>
 <summary>게임 내 번역 예시 보기</summary>
