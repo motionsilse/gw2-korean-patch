@@ -18,7 +18,8 @@
 
 플레이 중 먼저 보이는 **임시 기계번역에는 오역이나 어색한 표현이 있을 수 있습니다.** 원문 기여와 제작자의 번역·검수를 거쳐 DB를 꾸준히 개선하고 있습니다.
 
-<img src="docs/images/patcher-main-0.7.0.png" width="960" alt="v0.7.0 패처 메인 화면 — 번역 적용, 패치 해제, 영문·한글 버전 전환 단축키" />
+<img width="970" height="820" alt="image" src="https://github.com/user-attachments/assets/b04b9cec-fcaa-4cba-9e76-f87089babb5a" />
+
 
 ## 처음 사용한다면
 
