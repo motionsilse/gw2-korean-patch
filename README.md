@@ -42,7 +42,9 @@
 <details>
 <summary>번역 설정 화면 보기</summary>
 
-<img src="docs/images/patcher-settings-0.7.0.png" width="960" alt="v0.7.0 패처 설정 화면 — 번역 범위, 원문 수집과 기여, DB·DLL 자동 업데이트" />
+<img width="968" height="819" alt="image" src="https://github.com/user-attachments/assets/7a96bbea-f59f-43df-a1f2-b06e3bf4b381" />
+
+<img width="969" height="815" alt="image" src="https://github.com/user-attachments/assets/c4b7eb27-1e92-4cd5-a5ea-afbb6e53eb8e" />
 
 </details>
 
@@ -85,10 +87,9 @@
 <details>
 <summary>게임 내 번역 예시 보기</summary>
 
-이전에 촬영한 게임 화면입니다. 현재 번역이나 표시 내용과는 차이가 있을 수 있습니다.
 
-업로드 예정
-<img src="업로드 예정" width="960" alt="게임 내 파티 찾기와 설정 메뉴의 한국어 번역 예시" />
+
+
 
 </details>
 
