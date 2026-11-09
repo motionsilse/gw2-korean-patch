@@ -39,14 +39,13 @@
 
 번역 항목을 바꾼 뒤에는 **설정 완료 → 선택한 번역 적용**을 눌러 주세요. 적용과 해제는 게임이 종료된 상태에서 진행합니다.
 
-<details>
-번역 설정 화면 보기
+## 번역 설정 화면 보기
 
 <img width="968" height="819" alt="image" src="https://github.com/user-attachments/assets/7a96bbea-f59f-43df-a1f2-b06e3bf4b381" />
 
 <img width="969" height="815" alt="image" src="https://github.com/user-attachments/assets/c4b7eb27-1e92-4cd5-a5ea-afbb6e53eb8e" />
 
-</details>
+
 
 ## 자동 번역·기여·업데이트
 
@@ -84,14 +83,14 @@
 
 문제나 오역은 [커뮤니티](https://community.guildwar.win)에 패처 버전, 발생 상황과 화면을 함께 알려 주세요. 백신이 다운로드나 실행을 차단했다면 이 저장소에서 받은 파일인지, 어떤 항목으로 탐지됐는지 확인해 주세요.
 
-<details>
-게임 내 번역 예시 보기
+
+## 게임 내 번역 예시 보기
 
 <img width="2466" height="1389" alt="image" src="https://github.com/user-attachments/assets/14c4a985-fce2-4c93-9a99-48470fb285a7" />
 
 
 
-</details>
+
 
 ---
 
