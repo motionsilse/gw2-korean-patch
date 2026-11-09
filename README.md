@@ -86,11 +86,7 @@
 
 ## 게임 내 번역 예시 보기
 
-<img width="2466" height="1389" alt="image" src="https://github.com/user-attachments/assets/14c4a985-fce2-4c93-9a99-48470fb285a7" />
-
-
-
-
+<img width="2455" height="1541" alt="image" src="https://github.com/user-attachments/assets/15a9cae5-4eb9-4c54-8b6b-554aa23ff83e" />
 
 ---
 
