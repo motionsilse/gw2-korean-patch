@@ -71,6 +71,11 @@
 
 다른 플레이어와의 채팅을 번역하려면 [캣브릿지(CatBridge)](https://catbridge.guildwar.win/)를 **별도로 추가 설치**해 주세요. 패처 메인 화면의 **실시간 채팅 번역 사용하기 → 설치**에서도 연결됩니다.
 
+<img width="1025" height="1002" alt="image" src="https://github.com/user-attachments/assets/2a651403-b9f6-4a42-bca7-53a192c65c45" />
+
+<img width="970" height="396" alt="image" src="https://github.com/user-attachments/assets/43e9f74e-b337-4f6e-b0f2-566ce2ee3c4b" />
+
+
 ## 게임 업데이트·패치 해제
 
 - 게임 업데이트 전에는 게임을 종료하고 패처 메인 화면의 **패치 해제**를 눌러 주세요. 업데이트가 끝나면 다시 적용하면 됩니다.
